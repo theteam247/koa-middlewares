@@ -1,0 +1,19 @@
+{
+  "name": "koa-middlewares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team247/koa-middlewares.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team247/koa-middlewares/issues"
+  },
+  "homepage": "https://github.com/team247/koa-middlewares#readme"
+}
