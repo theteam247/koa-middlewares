@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/team247/koa-middlewares.git"
+    "url": "git+https://github.com/theteam247/koa-middlewares"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/team247/koa-middlewares/issues"
+    "url": "https://github.com/theteam247/koa-middlewares/issues"
   },
-  "homepage": "https://github.com/team247/koa-middlewares#readme"
+  "homepage": "https://github.com/theteam247/koa-middlewares#readme"
 }
